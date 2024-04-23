@@ -38,7 +38,5 @@ for easy interpretation.
 5. Prediction and Deployment : Deploy the trained machine learning model to predict soil quality attributes for new, unseen soil samples. 
 6. Validation and Feedback : Validate the model predictions against ground truth measurements or expert assessments to verify accuracy and reliability.
 
-# Contributers 
-1. Sanika Milind Jadhav
-2. Thorar Shraddha Sudhakar
-3. Karuna Kadam
+# Connect
+For accessing this project email us on tipsrndprojects@gmail.com
